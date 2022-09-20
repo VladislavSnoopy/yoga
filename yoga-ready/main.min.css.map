@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.less"],"names":[],"mappings":"AAAA,KACI,MAAA,KACA,iBAAA","file":"main.min.css","sourcesContent":["body{\r\n    color: black;\r\n    background-color: rgb(5, 125, 230);\r\n}"]}
